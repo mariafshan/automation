@@ -4,7 +4,7 @@ Codes I wrote to make my everyday life easier. Codes are periodically updated in
 Inspired by Al Sweigart's "Automate the Boring Stuff with Python" - https://automatetheboringstuff.com/
 
 ## PDF Merger
-pdfmerger.py
+pdfmerger.py ver. 20.9.26
 
 Created to avoid uploading data to pdf merger websites with questionable confidentiality and security issue.
 

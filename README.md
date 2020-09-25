@@ -12,3 +12,4 @@ Features:
   1. Input 2 or more PDF/ image files
   2. Convert all image files to PDF
   3. Merge the PDF files into 1 file
+  4. Scale and resize the PDF file to make it easier to read the PDF file

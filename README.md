@@ -1,8 +1,7 @@
 # Automation
 Codes I wrote to make my everyday life easier. Codes are periodically updated in accordance to my need.
 
-Inspired by Al Sweigart's "Automate the Boring Stuff with Python"
-https://automatetheboringstuff.com/
+Inspired by Al Sweigart's "Automate the Boring Stuff with Python" - https://automatetheboringstuff.com/
 
 ## PDF Merger
 pdfmerger.py

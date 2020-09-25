@@ -4,7 +4,8 @@ Inspired by Al Sweigart's "Automate the Boring Stuff with Python"
 https://automatetheboringstuff.com/
 
 ## PDF Merger
-### pdfmerger.py
+pdfmerger.py
+  Created to avoid uploading data to pdf merger websites with questionable confidentiality and security issue.
 Features:
   1. Input 2 or more PDF/ image files
   2. Convert all image files to PDF

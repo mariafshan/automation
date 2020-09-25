@@ -18,5 +18,4 @@ fbcomment.py ver. 20.9.26
 
 Created to help me manage Facebook communities. Please do not use this code to spam.
 
-Features:
-  Auto tag people's name on Facebook comment box.
+Feature: auto tag people's name on Facebook comment box.
